@@ -77,21 +77,3 @@ vagrant ssh
 cd /vagrant
 bundle exec rake
 ```
-
-
-## Authors
-
-### [Contributors](https://github.com/grosser/wwtd/contributors)
-
-- [Joshua Kovach](https://github.com/shekibobo)
-- [Kris Leech](https://github.com/krisleech)
-- [Eirik Dentz Sinclair](https://github.com/edsinclair)
-- [Lukasz Krystkowiak](https://github.com/lukkry)
-- [Jeff Dean](https://github.com/zilkey)
-- [Ben Osheroff](https://github.com/osheroff)
-- [David Rodríguez](https://github.com/deivid-rodriguez)
-- [stereobooster](https://github.com/stereobooster)
-
-[Michael Grosser](http://grosser.it)<br/>
-michael@grosser.it<br/>
-License: MIT<br/>
